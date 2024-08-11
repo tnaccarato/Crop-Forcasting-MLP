@@ -72,16 +72,9 @@ Additional features initially considered were dropped due to multicollinearity.
    ```bash
    pip install -r requirements.txt
    ```
-3. Prepare your dataset by following the preprocessing steps mentioned above.
-4. Train the model:
-   ```bash
-   python train_model.py
-   ```
-5. Evaluate the model:
-   ```bash
-   python evaluate_model.py
-   ```
+3. Run the notebook file.
 
+   
 ## File Structure
 
 - `train_model.py`: Script to train the MLP model.
