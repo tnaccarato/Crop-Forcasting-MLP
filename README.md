@@ -1,9 +1,9 @@
 
-# Machine Learning Model for Predicting Export Crop Values
+# Muli-Layer Peceptron for Predicting Export Crop Values
 
 ## Overview
 
-This project involves the development of a machine learning model aimed at predicting the export value of crops three years into the future. The model is built using a Multi-Layer Perceptron (MLP) regression model, which was trained on historical crop data. The objective is to forecast future crop export values for different geographic regions, enabling better planning and decision-making.
+This project involves the development of a machine learning model aimed at predicting the export value of specific groups of crops three years into the future. The model is built using a Multi-Layer Perceptron (MLP) regression model, which was trained on historical crop data. The objective is to forecast future crop export values for different geographic regions, enabling better planning and decision-making.
 
 ## Table of Contents
 
