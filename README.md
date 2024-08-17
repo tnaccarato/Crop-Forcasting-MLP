@@ -1,5 +1,5 @@
 
-# Muli-Layer Peceptron for Predicting Export Crop Values
+# Multi-Layer Peceptron for Predicting Export Crop Values
 
 ## Overview
 
